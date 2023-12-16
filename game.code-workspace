@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "game",
+			"path": "."
+		},
+		{
+			"name": "fonts",
+			"path": "../../../sfml-flappy-bird/fonts"
+		}
+	],
+	"settings": {}
+}
